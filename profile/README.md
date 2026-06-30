@@ -4,6 +4,6 @@
 
 # Agentic³
 
-### Agency to the fourth power.
+### Closing Multi-Dimensional Agentic Loops
 
 </div>
