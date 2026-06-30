@@ -4,6 +4,6 @@
 
 # Agentic³
 
-### Agency to the third power.
+### Closing the Loop In Every Dimension
 
 </div>
