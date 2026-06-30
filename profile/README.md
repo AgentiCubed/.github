@@ -4,6 +4,6 @@
 
 # Agentic³
 
-### Closing the Loop In Every Dimension
+### Closing Multi-Dimensional Agentic Loops
 
 </div>
