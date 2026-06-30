@@ -4,6 +4,6 @@
 
 # Agentic³
 
-### Agency to the fourth power.
+### Agency to the third power.
 
 </div>
